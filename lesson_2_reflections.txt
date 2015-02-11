@@ -7,3 +7,12 @@ How is the staging area different from the working directory and the repository?
 The staging area is the preamble to committing files to the repository. The working directory  is the directory that you are currently
 using. The staging area is helpful in connecting multiple files into one commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area allows you to clearly see the changes that you are going to commit. It allows you to compare with your working directory
+to see which new parts are being committed, as well as with your previous commit to discern which changes actually occured.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches will be helpful in many situations in which you would like to keep separate copies of the game in development at the same time.
+Reasons can vary from alternate language editions, experimental additions, or to create separate difficulties if you are creating a game.

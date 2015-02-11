@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Viewing a diff between two versions of a file helped me see the bug that was introduced by creating an easily 
+decipherable block of text that layed out the differences between my two files!
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Easy access to the entire history of a file allows you to discern what ideas actually work, find small errors in new files, and
+keep a running history of your project to look back on.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+There are many pros and cons to manually choosing when to create a commit. Some pros include: the commits will neither be too big
+nor too small, too frequent, and you can provide meaningful context for each commit. The cons are mostly relative to human error.
+It would be very easy to forget to create a commit or create multiple commits on accident.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs,
+treat each file separately?
+
+I think that Git was created to assist programmers specifically require multiple files to be saved to one commit; whereas, others
+do not require it.
+
+How can you use the commands git log and git diff to view the history of files?
+
+These commans allow you to find a commit that you want to inspect and then compare it with another file to see the changes that
+were made.
+
+How might using version control make you more confident to make changes that could break something?
+
+Knowing that I can quickly and easily return to a previous version of code, breaking something no longer causes a big deal because it
+can be reverted easily.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+My projects for school!

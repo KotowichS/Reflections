@@ -16,3 +16,18 @@ What are some situations when branches would be helpful in keeping your history 
 
 Branches will be helpful in many situations in which you would like to keep separate copies of the game in development at the same time.
 Reasons can vary from alternate language editions, experimental additions, or to create separate difficulties if you are creating a game.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams make it easy to spot the different branches that we have created and their previous commits.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches together causes the new commit to be the head of the master branch that contains changes made by both of the
+branches. We represent it this way because it is not simply the information from one branch being added to the other, rather a new
+commit is created in which information from both previous commits and their parents are put together.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is fantastic when each branch is changing, adding, or removing unique functionality. If Everyone is working on the same
+functions, then git is unable to automatically merge without conflict.

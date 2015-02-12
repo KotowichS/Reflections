@@ -18,3 +18,8 @@ What is the benefit of having a copy of the last known state of the remote store
 The benefit of having a copy of the last known state of the remote stored locally is that you can see what changes you are making compared
 to the previous version.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without using github or git I would probably collaborate in person, which has some advantages (namely that we can discuss the project
+and potentially make a lot of progress), but also many disadvantages (such as struggling to find times in which we are able to actual meet
+up).

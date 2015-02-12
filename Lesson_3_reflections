@@ -5,3 +5,16 @@ Having group projects in a lot of my classes, using a remote respository will be
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Manually pulling allows the user the option of when to retrieve the data from github.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A branch is created when you commit a change that you do not want to affect the master branch. This allows you to make experimental
+changes without affecting the already working code. A clone allows you to copy a repository from github to your computer. This should be
+used when you are using your own code. A Fork is used to copy another person's repository to your own github while allowing the original
+creators to retain credit for the original coce, but also allowing you to make changes and potentially suggest changes to the original code!
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit of having a copy of the last known state of the remote stored locally is that you can see what changes you are making compared
+to the previous version.
+
